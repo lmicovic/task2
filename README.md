@@ -51,4 +51,14 @@ If pressed Console button resulst wlill be printed in application console.
 
 
 ## Screenshots
+- Display Results in Table:
+![Image](https://github.com/user-attachments/assets/cc06ce8d-e2f1-4c96-8f62-113d43f9b44a)
 
+- JSON File:
+- ![Image](https://github.com/user-attachments/assets/8d2970c5-1c65-47f1-9dbe-7f03618554cb)
+
+- CSV File:
+![Image](https://github.com/user-attachments/assets/0472072e-1eae-43b4-825e-331da7839eb5)
+
+- Console Output:
+![Image](https://github.com/user-attachments/assets/a0e91001-f404-43ff-a13e-acaa63039c73)
